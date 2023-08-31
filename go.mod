@@ -1,4 +1,4 @@
-module netxd_dal
+module github.com/balamh/netxd_dal
 
 go 1.18
 

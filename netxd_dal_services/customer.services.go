@@ -2,9 +2,8 @@ package netxd_dal_services
 
 import (
 	"context"
-	"netxd_dal/netxd_dal_interfaces"
-	"netxd_dal/netxd_dal_models"
-
+	"github.com/balamh/netxd_dal/netxd_dal_interfaces"
+	"github.com/balamh/netxd_dal/netxd_dal_models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )

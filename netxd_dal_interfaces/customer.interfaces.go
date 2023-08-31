@@ -1,6 +1,6 @@
 package netxd_dal_interfaces
 
-import "netxd_dal/netxd_dal_models"
+import "github.com/balamh/netxd_dal/netxd_dal_models"
 
 // import "netxd_dal/netxd_dal_models"
 
